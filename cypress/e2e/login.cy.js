@@ -1,4 +1,4 @@
-describe('Login SauceDemo', () => {
+describe('SauceDemo - Authentication and Cart Tests', () => {
   it('Deve realizar login com sucesso', () => {
     cy.visit('https://www.saucedemo.com/')
 
